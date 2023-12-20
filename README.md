@@ -2,7 +2,7 @@
   
 <h1 align="center">Hi 👋, I'm Coder34 <br> Welcome to My Tech Bootcamp Journey!</h1>
 <h3 align="center"> About Me .</h3>
-<img src = "https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif">
+<img align ="right" src = "https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif">
 <p align="center"> This repository serves as a comprehensive overview of my experiences, projects, and learnings as I transition into tech. As I embark on this transformative journey, I'm excited to share my progress and growth.</p>
 <h3 align="center"> About My Tech Bootcamp</h3>
 <p> I am enrolled in the SOC bootcamo, a comprehensive program meticulously crafted to guide tech newcomers like me. Over the course of 16 weeks, I'll immerse myself in foundational modules, hands-on projects, and collaborative endeavors, gradually building a robust skill set.</p>
